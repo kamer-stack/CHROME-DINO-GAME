@@ -1,4 +1,3 @@
-# oop-project
 # Chrome Dino Game
 
 A C++ recreation of the classic Chrome offline dinosaur game with enhanced features including difficulty levels, player statistics, and high score tracking.
